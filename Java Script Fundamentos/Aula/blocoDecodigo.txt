@@ -1,0 +1,1 @@
+Bloco de codigo em javaScript é definido a partir de um par de chaves;
